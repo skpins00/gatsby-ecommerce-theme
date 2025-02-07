@@ -13,6 +13,9 @@ const Layout = ({ props, children, disablePaddingBottom = false }) => {
   return (
     <>
       <Helmet>
+{/* Pinterest Domain Verification */}
+<meta name="p:domain_verify" content="6f7041fcd2e31a3181f5216eca7d3ba6"/>
+
         {/* Add any sitewide scripts here */}
         <link
           rel="stylesheet"
